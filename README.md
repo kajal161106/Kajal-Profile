@@ -4,12 +4,12 @@ Interested in **Web Development | Python | Data Science**
 Currently learning: JavaScript, SQL, and Python basics 
 
 ## Skills (Learning)
-HTML, CSS, JavaScript
-Python
+HTML, CSS, JavaScript,
+Python,
 SQL
 
 ## Connect with Me
-Mumbai, India
+Mumbai, India.
 Email: kajal15112024@gmail.com
 
 *I am just starting my code journey,and I will keep adding my projects here as I learn.*
